@@ -1,0 +1,6 @@
+/Users/skimmy/Projects/Lecture8/Lecture8/bin/Debug/Lecture8.exe
+/Users/skimmy/Projects/Lecture8/Lecture8/bin/Debug/Lecture8.pdb
+/Users/skimmy/Projects/Lecture8/Lecture8/obj/Debug/Lecture8.csprojAssemblyReference.cache
+/Users/skimmy/Projects/Lecture8/Lecture8/obj/Debug/Lecture8.csproj.CoreCompileInputs.cache
+/Users/skimmy/Projects/Lecture8/Lecture8/obj/Debug/Lecture8.exe
+/Users/skimmy/Projects/Lecture8/Lecture8/obj/Debug/Lecture8.pdb
